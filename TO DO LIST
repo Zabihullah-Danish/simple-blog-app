@@ -1,0 +1,17 @@
+
+// First part: I am working on back end.
+
+1- Specify and prepare models.
+    => User
+    => Post
+    => Category
+    => Comment
+    => LeaveComment
+
+2- working on Factories and Database seeders.
+3- Prepare The migrations.
+4- Make the relationship between models.
+5- Working with Controllers.
+
+
+// Second part: I am working on the User Iterface.

@@ -1,0 +1,1 @@
+<img {{ $attributes->merge(['class' => '']) }} src="{{ asset('storage/images/house.jpg') }}" alt="logo" width="60px" height="60px" />
