@@ -2,9 +2,15 @@
   "events":[
     {
      "id": 12,
-     "name": "Zabihullah",
-     "lastname": "Danish",
-     "province":"Kabul"
-    }
+     "title": "Laravel 9 features",
+     "text": "Web development with L9 is amazing",
+     "published":"Aug, 08 2022"
+    },
+    {
+     "id": 13,
+     "title": "Laravel 8 features",
+     "text": "Web development with L9 is amazing",
+     "published":"Aug, 07 2022"
+    },
   ]
 }
