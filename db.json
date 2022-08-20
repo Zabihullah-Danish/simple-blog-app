@@ -1,10 +1,10 @@
 {
   "events":[
     {
-      id:1,
-      title: "New in laravel 9",
-      text: "Laravel 9 best framework",
-      published: "24/8/2022",
+      "id":1,
+      "title": "New in laravel 9",
+      "text": "Laravel 9 best framework",
+      "published": "24/8/2022",
     }
   ]
 }
