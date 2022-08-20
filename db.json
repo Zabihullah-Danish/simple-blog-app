@@ -1,5 +1,5 @@
 {
-  events:[
+  "events":[
     {
       id:1,
       title: "New in laravel 9",
