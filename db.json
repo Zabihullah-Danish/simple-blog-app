@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "events":[
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "title":"Laravel 9 is awesome",
+      "text":"Laravel is the best framework",
+      "published":"22/8/2022",
+    },
+    {
+      "title":"Laravel 9 is awesome",
+      "text":"Laravel is the best framework",
+      "published":"22/8/2022",
+    },
+    {
+      "title":"Laravel 9 is awesome",
+      "text":"Laravel is the best framework",
+      "published":"22/8/2022",
+    },
+   
+  ]
 }
